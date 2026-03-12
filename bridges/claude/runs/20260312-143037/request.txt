@@ -1,0 +1,11 @@
+MODE: generic
+
+INSTRUCTION:
+Explique em 2 linhas o que é meu ambiente OpenClaw
+
+FORMATO DE SAIDA OBRIGATORIO:
+TITLE:
+EXEC_SUMMARY:
+KEY_FINDINGS:
+NEXT_STEPS:
+FULL_ANALYSIS:

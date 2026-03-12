@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -e
+
+OUT="/tmp/openclaw_screen_$(date +%s).png"
+
+/usr/sbin/screencapture -x "$OUT"
+
+echo "{\"image_path\": \"$OUT\"}"
